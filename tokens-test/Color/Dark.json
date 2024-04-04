@@ -1,0 +1,60 @@
+{
+  "Neutral": {
+    "Background": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Grey.40}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.24}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.12}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.22}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      }
+    },
+    "Stroke": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Grey.40}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.46}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.42}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.44}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      }
+    }
+  }
+}

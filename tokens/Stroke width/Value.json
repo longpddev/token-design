@@ -1,0 +1,26 @@
+{
+  "Thin": {
+    "value": "{Stroke width.None}",
+    "type": "dimension",
+    "parent": "Stroke width/Value",
+    "description": ""
+  },
+  "Thick": {
+    "value": "{Stroke width.20}",
+    "type": "dimension",
+    "parent": "Stroke width/Value",
+    "description": ""
+  },
+  "Thicker": {
+    "value": "{Stroke width.30}",
+    "type": "dimension",
+    "parent": "Stroke width/Value",
+    "description": ""
+  },
+  "Thickest": {
+    "value": "{Stroke width.40}",
+    "type": "dimension",
+    "parent": "Stroke width/Value",
+    "description": ""
+  }
+}

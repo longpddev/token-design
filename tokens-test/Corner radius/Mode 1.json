@@ -1,0 +1,38 @@
+{
+  "None": {
+    "value": "{Corner radius.None}",
+    "type": "dimension",
+    "parent": "Corner radius/Mode 1",
+    "description": ""
+  },
+  "Small": {
+    "value": "{Corner radius.20}",
+    "type": "dimension",
+    "parent": "Corner radius/Mode 1",
+    "description": ""
+  },
+  "Medium": {
+    "value": "{Corner radius.40}",
+    "type": "dimension",
+    "parent": "Corner radius/Mode 1",
+    "description": ""
+  },
+  "Large": {
+    "value": "{Corner radius.60}",
+    "type": "dimension",
+    "parent": "Corner radius/Mode 1",
+    "description": ""
+  },
+  "X-Large": {
+    "value": "{Corner radius.80}",
+    "type": "dimension",
+    "parent": "Corner radius/Mode 1",
+    "description": ""
+  },
+  "Circular": {
+    "value": "{Corner radius.Circular}",
+    "type": "dimension",
+    "parent": "Corner radius/Mode 1",
+    "description": ""
+  }
+}

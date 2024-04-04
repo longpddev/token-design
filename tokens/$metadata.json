@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Color/Light",
+    "Color/Dark",
+    "Global/Default",
+    "Spacing/Mode 1",
+    "Corner radius/Mode 1",
+    "Stroke width/Value"
+  ]
+}

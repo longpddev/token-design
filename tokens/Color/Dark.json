@@ -1,0 +1,2322 @@
+{
+  "Neutral": {
+    "Background": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Neutral.Grey.16}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.24}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.12}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.22}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "Rest": {
+          "value": "{Colors.Grey.12}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.20}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.8}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.18}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "3": {
+        "Rest": {
+          "value": "{Colors.Grey.8}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.16}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.4}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.14}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "4": {
+        "Rest": {
+          "value": "{Colors.Grey.4}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.12}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.Black}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.10}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "5": {
+        "Rest": {
+          "value": "{Colors.Grey.Black}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.8}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.2}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.6}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "6": {
+        "Rest": {
+          "value": "{Colors.Grey.20}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Inverted": {
+        "Rest": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Disabled": {
+          "Rest": {
+            "value": "#ffffff1a",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Alpha": {
+        "1": {
+          "Rest": {
+            "value": "#1a1a1a80",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "#1f1f1fb3",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Static": {
+        "Rest": {
+          "value": "{Colors.Grey.24}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Subtle": {
+        "Rest": {
+          "value": "#00000000",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.22}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.18}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.20}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Light alpha": {
+          "Hover": {
+            "value": "#242424cc",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "#24242480",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "#00000000",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Inverted": {
+          "Rest": {
+            "value": "#00000000",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Hover": {
+            "value": "#0000001a",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "#0000004d",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "#00000033",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Transparent": {
+        "Rest": {
+          "value": "#00000000",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "#00000000",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "#00000000",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "#00000000",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Disabled": {
+        "Rest": {
+          "value": "{Colors.Grey.8}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Stencil": {
+        "1": {
+          "Rest": {
+            "value": "{Colors.Grey.34}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "{Colors.Grey.20}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Overlay": {
+        "Rest": {
+          "value": "#00000080",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Scrollbar": {
+          "Rest": {
+            "value": "#ffffff99",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Foreground": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "Rest": {
+          "value": "{Colors.Grey.84}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Brand": {
+          "Hover": {
+            "value": "{Colors.Brand.100}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "{Colors.Brand.90}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "{Colors.Brand.100}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Link": {
+          "Rest": {
+            "value": "{Colors.Grey.84}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Hover": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "3": {
+        "Rest": {
+          "value": "{Colors.Grey.68}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.84}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.84}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.84}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Brand": {
+          "Hover": {
+            "value": "{Colors.Brand.100}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "{Colors.Brand.90}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "{Colors.Brand.100}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "4": {
+        "Rest": {
+          "value": "{Colors.Grey.60}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Disabled": {
+        "Rest": {
+          "value": "{Colors.Grey.36}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Static": {
+        "Rest": {
+          "value": "{Colors.Grey.14}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Inverted": {
+          "Rest": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Inverted": {
+        "1": {
+          "Rest": {
+            "value": "{Colors.Grey.14}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Hover": {
+            "value": "{Colors.Grey.14}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "{Colors.Grey.14}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "{Colors.Grey.14}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "{Colors.Grey.14}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Disabled": {
+          "Rest": {
+            "value": "#ffffff66",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Link": {
+          "Rest": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Hover": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "On Brand": {
+        "Rest": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      }
+    },
+    "Stroke": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Grey.40}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.46}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.42}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Grey.44}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "Rest": {
+          "value": "{Colors.Grey.32}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "3": {
+        "Rest": {
+          "value": "{Colors.Grey.24}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Alpha": {
+        "1": {
+          "Rest": {
+            "value": "#ffffff1a",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "#ffffff33",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Subtle": {
+        "Rest": {
+          "value": "{Colors.Grey.4}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "on Brand": {
+        "1": {
+          "Rest": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Hover": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Pressed": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          },
+          "Selected": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Accessible": {
+        "Rest": {
+          "value": "{Colors.Grey.68}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Grey.74}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Grey.70}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Focus": {
+        "1": {
+          "Rest": {
+            "value": "#000000",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "{Colors.Grey.White}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Transparent": {
+        "Interactive": {
+          "Rest": {
+            "value": "#ffffff00",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Disabled": {
+          "Rest": {
+            "value": "#ffffff00",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Rest": {
+          "value": "#ffffff00",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Disabled": {
+        "Rest": {
+          "value": "{Colors.Grey.26}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Inverted": {
+          "Rest": {
+            "value": "#ffffff66",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    }
+  },
+  "Brand": {
+    "Background": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Brand.70}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.80}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.40}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Brand.60}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "Rest": {
+          "value": "{Colors.Brand.20}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.40}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.10}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Inverted": {
+        "Rest": {
+          "value": "{Colors.Grey.White}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.160}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.140}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Brand.150}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Static": {
+        "Rest": {
+          "value": "{Colors.Brand.80}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Compound": {
+        "Rest": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.110}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.90}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      }
+    },
+    "Foreground": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "Rest": {
+          "value": "{Colors.Brand.110}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.130}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Link": {
+        "Rest": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.110}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.90}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Inverted": {
+        "Rest": {
+          "value": "{Colors.Brand.80}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.70}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.60}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "On Light": {
+        "Rest": {
+          "value": "{Colors.Brand.70}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.70}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.50}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Selected": {
+          "value": "{Colors.Brand.60}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "Compound": {
+        "Rest": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.110}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.90}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      }
+    },
+    "Stroke": {
+      "1": {
+        "Rest": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      },
+      "2": {
+        "Rest": {
+          "value": "{Colors.Brand.50}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.90}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.70}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Contrast": {
+          "Rest": {
+            "value": "{Colors.Brand.50}",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Compound": {
+        "Rest": {
+          "value": "{Colors.Brand.100}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Hover": {
+          "value": "{Colors.Brand.110}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        },
+        "Pressed": {
+          "value": "{Colors.Brand.90}",
+          "type": "color",
+          "parent": "Color/Dark",
+          "description": ""
+        }
+      }
+    }
+  },
+  "Status": {
+    "Danger": {
+      "Background": {
+        "1": {
+          "Rest": {
+            "value": "#3b0509",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#c50f1f",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Foreground": {
+        "1": {
+          "Rest": {
+            "value": "#dc626d",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#c50f1f",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "Rest": {
+            "value": "#c50f1f",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "#dc626d",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Success": {
+      "Background": {
+        "1": {
+          "Rest": {
+            "value": "#052505",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#107c10",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Foreground": {
+        "1": {
+          "Rest": {
+            "value": "#54b054",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#9fd89f",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "Inverted": {
+          "Rest": {
+            "value": "#107c10",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "Rest": {
+            "value": "#107c10",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "#9fd89f",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Severe": {
+      "Background": {
+        "1": {
+          "Rest": {
+            "value": "#411200",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#da3b01",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Foreground": {
+        "1": {
+          "Rest": {
+            "value": "#e9835e",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#e9835e",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "Rest": {
+            "value": "#da3b01",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Warning": {
+      "Background": {
+        "1": {
+          "Rest": {
+            "value": "#4a1e04",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "3": {
+          "Rest": {
+            "value": "#f7630c",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Foreground": {
+        "1": {
+          "Rest": {
+            "value": "#f98845",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        },
+        "2": {
+          "Rest": {
+            "value": "#fdcfb4",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      },
+      "Stroke": {
+        "1": {
+          "Rest": {
+            "value": "#de590b",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Oof": {
+      "Foreground": {
+        "3": {
+          "Rest": {
+            "value": "#d161c4",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Away": {
+      "Background": {
+        "3": {
+          "Rest": {
+            "value": "#eaa300",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Available": {
+      "Foreground": {
+        "3": {
+          "Rest": {
+            "value": "#13a10e",
+            "type": "color",
+            "parent": "Color/Dark",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Generic": {
+      "Dark red": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#590815",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#d69ca5",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#962f3f",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Cranberry": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#6e0811",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#eeacb2",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#dc626d",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Red": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#751d1f",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#eeacb2",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#e37d80",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Pumpkin": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#712d09",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#efc4ad",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#df8e64",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Peach": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#8f4e00",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#ffddb3",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#ffba66",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Marigold": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#835b00",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#f9e2ae",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#f2c661",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Gold": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#6d5700",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#ecdfa5",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#dac157",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Brass": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#553e06",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#e0cea2",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#c1a256",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Brown": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#50301a",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#ddc3b0",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#bb8f6f",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Forest": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#294903",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#bdd99b",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#85b44c",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Seafoam": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#00723b",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#a8f0cd",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#5ae0a0",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Dark green": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#063b06",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#9ad29a",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#4da64d",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Light teal": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#00666d",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#a6e9ed",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#58d3db",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Teal": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#02494c",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#9bd9db",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#4cb4b7",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Steel": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#00333f",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#94c8d4",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#4496a9",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Blue": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#004377",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#a9d3f2",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#5caae5",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Royal blue": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#002c4e",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#9abfdc",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#4a89ba",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Cornflower": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#2c3c85",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#c8d1fa",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#93a4f4",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Navy": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#001665",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#a3b2e8",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#546fd2",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Lavender": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#3f3682",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#d2ccf8",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#a79cf1",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Purple": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#341a51",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#c6b1de",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#9470bd",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Grape": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#4c0d55",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#d9a7e0",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#b55fc1",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Lilac": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#63276d",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#e6bfed",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#cf87da",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Pink": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#80215d",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#f7c0e3",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#ef85c8",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Magenta": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#6b0043",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#eca5d1",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#d957a8",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Plum": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#5b003b",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#d696c0",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#d957a8",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Beige": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#444241",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#d7d4d4",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#afabaa",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Mink": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#343231",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#cecccb",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#9e9b99",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Platinum": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#3b4447",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#cdd6d8",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#a0adb2",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      },
+      "Anchor": {
+        "Background": {
+          "2": {
+            "Rest": {
+              "value": "#202427",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Foreground": {
+          "2": {
+            "Rest": {
+              "value": "#bcc3c7",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        },
+        "Stroke": {
+          "Active": {
+            "Rest": {
+              "value": "#808a90",
+              "type": "color",
+              "parent": "Color/Dark",
+              "description": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  "Shadow": {
+    "Ambient": {
+      "value": "#0000003d",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Ambient lighter": {
+      "value": "#0000001f",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Ambient darker": {
+      "value": "#00000066",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Ambient brand": {
+      "value": "#0000004d",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Key": {
+      "value": "#00000047",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Key lighter": {
+      "value": "#00000024",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Key darker": {
+      "value": "#0000007a",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    },
+    "Key brand": {
+      "value": "#00000040",
+      "type": "color",
+      "parent": "Color/Dark",
+      "description": ""
+    }
+  }
+}

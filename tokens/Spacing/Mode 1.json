@@ -1,0 +1,138 @@
+{
+  "Vertical": {
+    "None": {
+      "value": "{Size.None}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XXS": {
+      "value": "{Size.20}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XS": {
+      "value": "{Size.40}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "SNudge": {
+      "value": "{Size.60}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "S": {
+      "value": "{Size.80}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "MNudge": {
+      "value": "{Size.100}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "M": {
+      "value": "{Size.120}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "L": {
+      "value": "{Size.160}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XL": {
+      "value": "{Size.200}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XXL": {
+      "value": "{Size.240}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XXXL": {
+      "value": "{Size.320}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    }
+  },
+  "Horizontal": {
+    "None": {
+      "value": "{Size.None}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XXS": {
+      "value": "{Size.20}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XS": {
+      "value": "{Size.40}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "SNudge": {
+      "value": "{Size.60}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "S": {
+      "value": "{Size.80}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "MNudge": {
+      "value": "{Size.100}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "M": {
+      "value": "{Size.120}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "L": {
+      "value": "{Size.160}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XL": {
+      "value": "{Size.200}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XXL": {
+      "value": "{Size.240}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    },
+    "XXXL": {
+      "value": "{Size.320}",
+      "type": "dimension",
+      "parent": "Spacing/Mode 1",
+      "description": ""
+    }
+  }
+}
