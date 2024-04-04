@@ -3,7 +3,7 @@
     "Background": {
       "1": {
         "Rest": {
-          "value": "{Colors.Neutral.Grey.16}",
+          "value": "{Colors.Grey.White}",
           "type": "color",
           "parent": "Color/Dark",
           "description": ""

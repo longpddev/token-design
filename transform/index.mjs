@@ -10,8 +10,8 @@ const sd = new StyleDictionary({
       buildPath: "build/",
       files: [
         {
-          destination: 'vars.css',
-          format: 'css/variables',
+          destination: 'tokens.js',
+          format: 'fluent/ts/format',
           filter: 'isAliasCollection'
         },
       ],

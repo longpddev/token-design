@@ -1,6 +1,11 @@
 import { registerTransforms } from "@tokens-studio/sd-transforms";
 import StyleDictionary from "style-dictionary";
 import camelCase from 'lodash/camelCase.js'
+
+/**
+ * @typedef {import("style-dictionary/types").TransformedToken} TransformedToken
+ */
+
 registerTransforms(StyleDictionary);
 const { fileHeader, formattedVariables } = StyleDictionary.formatHelpers;
 const kebabTransform = StyleDictionary.transform["name/camel"];
@@ -20,6 +25,14 @@ const transforms = [
   'ts/color/css/hexrgba',
   'ts/color/modifiers',
 ];
+
+/**
+ * 
+ * @param {TransformedToken} token
+ */
+function formatOptions (token) {
+  return [token.name, token.value]
+}
 
 StyleDictionary.registerFilter({
   name: 'isGlobalCollection', 
@@ -61,6 +74,38 @@ StyleDictionary.registerTransform({
     const result = camelCase([options.prefix].concat([collection], path).join(' '));
 
     return result;
+  }
+})
+
+const themesAvailable = new Set(['light', 'dark'])
+
+StyleDictionary.registerFormat({
+  name: 'fluent/ts/format',
+  formatter: function ({dictionary, file, options, platform}) {
+    const globalTokens = /** @type {Array<TransformedToken>} */([]);
+    const themesTokens = /** @type {Map<string, Array<TransformedToken>>} */(new Map());
+    themesAvailable.forEach(theme => themesTokens.set(theme, []));
+
+    dictionary.allTokens.forEach(item => {
+      const [collection, collectionMode] = (item.parent ?? "").toLowerCase().split('/');
+      if(!themesAvailable.has(collectionMode)) {
+        globalTokens.push(item);
+        return;
+      }
+
+      const tokens = themesTokens.get(collectionMode);
+      tokens.push(item)
+    });
+
+    const themesTokensCustomCollection = Array.from(themesTokens.entries()).map(([name, tokens]) => ([`${name}Tokens`, tokens]))
+
+    let result = `export const globalTokens = ${JSON.stringify(Object.fromEntries(globalTokens.map(formatOptions)), undefined, 2)}\n\n`;
+
+    result += themesTokensCustomCollection.map(([name, tokens]) => {
+      return `export const ${name} = Object.assign(globalTokens, ${JSON.stringify(Object.fromEntries(tokens.map(formatOptions)), undefined, 2)});`
+    }).join('\n\n')
+    
+    return result
   }
 })
 
